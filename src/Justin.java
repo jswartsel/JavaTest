@@ -6,4 +6,8 @@ public class Justin implements ICoolDude {
 		System.out.println("Justin is cool");
 		
 	}
+	
+	public int HowCoolAmI(){
+		return 100;
+	}
 }
