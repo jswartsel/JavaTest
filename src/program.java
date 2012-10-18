@@ -8,5 +8,8 @@ public class program {
 		ICoolDude j = new Justin();
 		j.BeCool();
 		
+		j = new Nathan();
+		j.BeCool();
+		
 	}
 }
